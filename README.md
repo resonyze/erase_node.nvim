@@ -1,6 +1,6 @@
 # Erase treesitter node
 
-erase_node.lua:
+erase_node.lua (picked up by lazy.nvim):
 ```
 return {
     dir = "/home/vector/plugins/erase_node.nvim",
